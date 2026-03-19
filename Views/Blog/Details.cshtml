@@ -1,0 +1,17 @@
+@model YourAppName.Models.Post
+
+@{
+    ViewData["Title"] = "Post Details";
+}
+
+<div class="card mt-4">
+    <div class="card-body">
+        <h2 class="card-title">@Model.Title</h2>
+        <h6 class="card-subtitle mb-2 text-muted">By: @Model.Author</h6>
+        <hr />
+        <p class="card-text">@Model.Content</p>
+        
+        <br />
+        <a asp-controller="Blog" asp-action="Index" class="btn btn-secondary">Back to Blog List</a>
+    </div>
+</div>
