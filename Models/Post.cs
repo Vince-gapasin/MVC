@@ -1,4 +1,4 @@
-namespace YourAppName.Models
+namespace MVC.Models
 {
     public class Post
     {

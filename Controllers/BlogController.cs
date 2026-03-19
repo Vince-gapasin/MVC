@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using YourAppName.Models;
+using MVC.Models;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace YourAppName.Controllers
+namespace MVC.Controllers
 {
     public class BlogController : Controller
     {

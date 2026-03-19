@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VINCE\\MVC\\MVC.csproj": {}
+    "C:\\Users\\Christian Bacani\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VINCE\\MVC\\MVC.csproj": {
+    "C:\\Users\\Christian Bacani\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VINCE\\MVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Bacani\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\VINCE\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\VINCE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VINCE\\MVC\\obj\\",
+        "projectPath": "C:\\Users\\Christian Bacani\\MVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\Christian Bacani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian Bacani\\MVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VINCE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Christian Bacani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
